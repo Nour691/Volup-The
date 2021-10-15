@@ -1,0 +1,94 @@
+body{
+    background-color: white;
+}
+
+.logo img{
+    width: 270px;
+    height: 250px;
+    margin-left: 35em;
+    background-color: beige;
+}
+
+.ul {
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+    display: inline;
+    padding: 5px;
+    margin: auto;
+}
+.ul ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 37px;
+    background-color: beige;
+    margin: 40px;
+}
+
+.presentation img {
+    width: 350px;
+    height: 300px;
+    margin-left: 8em;
+}
+
+.presentation {
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    padding: 5px;
+    background-color: beige;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.les4images img{
+    width: 830px;
+    height: 190px;
+    margin-left: 17em;
+}
+
+.presentation2 img {
+    width: 350px;
+    height: 310px;
+    margin-left: 7em;
+}
+
+.presentation2 {
+    color: black;
+    font-style: italic;
+    white-space: pre-line;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    padding: 5px;
+    background-color: beige;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.horaire {
+    color: black;  
+    white-space: pre-line;
+    margin-left: 20em;
+}
+
+.adresse {
+    padding-top: 15px;
+    padding-left: 400px;
+    white-space: pre-line;
+}
+
+.info {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    padding: 2px;
+    background-color: beige;
+ /*   background-size: ;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
